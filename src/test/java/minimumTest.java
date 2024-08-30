@@ -6,7 +6,7 @@ public class minimumTest {
     @Test
     public void test_array_with_positive_numbers(){
         int[] sum = {2,4,6};
-        assertEquals(121, minimum.sumArray(sum));
+        assertEquals(12, minimum.sumArray(sum));
     }
 
     @Test
